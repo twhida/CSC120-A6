@@ -1,7 +1,7 @@
 public class Building {
 
-    protected String name = "<Name Unknown>";
-    protected String address = "<Address Unknown>";
+    protected String name = "Interesting Name";
+    protected String address = "The Address";
     protected int nFloors = 1;
 
     public Building(String name, String address, int nFloors) {

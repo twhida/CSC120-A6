@@ -66,7 +66,7 @@ public class Library extends Building {
     }
     
     public static void main(String[] args) {
-      new Library("","",3);
+      new Library("The Library","100 Park Lane",3);
     }
   
   }

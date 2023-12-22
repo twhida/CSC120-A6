@@ -5,7 +5,7 @@ public class House extends Building {
   private ArrayList<String> residents;
   private boolean hasDiningRoom;
 
-  public House(String name, String address, int nFloors, ArrayList<String> residents) {
+  public House(String name, String address, int nFloors) {
     super(name, address, nFloors);
     this.residents = new ArrayList<String>();
     this.hasDiningRoom = hasDiningRoom;
@@ -46,7 +46,7 @@ public class House extends Building {
   
 
   public static void main(String[] args) {
-   // new House("","",2,"");
+    new House("Lamont","17 Prospect St",2);
   }
 
 }
