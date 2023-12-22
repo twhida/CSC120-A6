@@ -11,4 +11,4 @@ Use this file to record your reflection on this assignment.
 
     Once I recognized that consistency in using the correct parameters was crucial, I was able to navigate the Cafe inventory much better. Otherwise, I found the Library class and the House class to be generally straight forward given the very careful instructions in the README.md. I will note that I had trouble with the HashTable equals command that had I employed successfully, would have been more applicable to my printCollection at the end. I was unable to specify between books that are checked out but in the collection, and those which are simply not in the collection.
 
-    I am also very pleased with my growing comfort with javadoc style comments, although I'm not quite sure exactly how well I am writing them.
+    I am also very pleased with my growing comfort with javadoc style comments, although I was unable to finish them for this assignment due to time.
