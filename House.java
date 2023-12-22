@@ -46,7 +46,7 @@ public class House extends Building {
   
 
   public static void main(String[] args) {
-    new House();
+   // new House("","",2,"");
   }
 
 }
